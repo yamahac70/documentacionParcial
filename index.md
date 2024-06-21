@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "Instrucciones y explicacion appSha256"
   text: "proyecto precentado en python Matematicas"
-  image: ./src/imagenes/Inicio.png
+  image: https://i.ibb.co/4jKyNBn/Inicio.png
   
   # actions:
   #   - theme: brand
