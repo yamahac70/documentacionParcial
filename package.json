@@ -1,0 +1,19 @@
+{
+  "name": "documentacionParcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+    "devDependencies": {
+      "vitepress": "^1.2.3"
+    },
+    "scripts": {
+      "dev": "vitepress dev .",
+      "docs:build": "vitepress build .",
+      "docs:preview": "vitepress preview ."
+    },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
