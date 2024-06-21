@@ -22,6 +22,9 @@ hero:
     - theme: brand
       text: Repocitorio
       link: "https://github.com/yamahac70/000.git"
+    - theme: brand
+      text: Descargar .exe
+      link: https://github.com/yamahac70/proyecto_matematicas_sha256/releases/download/mjav1/matematicasHash256.exe
 # features:
 #   - title: Feature s
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
