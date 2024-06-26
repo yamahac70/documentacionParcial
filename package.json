@@ -10,10 +10,13 @@
   "scripts": {
     "dev": "vitepress dev .",
     "docs:build": "vitepress build .",
-    "deploy":"gh-pages -d .vitepress/dist",
+    "deploy": "gh-pages -d .vitepress/dist",
     "docs:preview": "vitepress preview ."
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vitepress-versioning-plugin": "^1.0.2"
+  }
 }
